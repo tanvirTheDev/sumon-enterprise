@@ -27,9 +27,9 @@ export default function WhoWeAre() {
         manufacturing and repair, outboard motor overhauling, navigation
         material supply, and on-site manpower support. With a dedicated team of
         professionals and a commitment to quality, we strive to deliver
-        value-added services tailored to our clients' needs. Our vision is to be
-        recognized as a leading engineering firm driven by integrity, teamwork,
-        and innovation.
+        value-added services tailored to our client&#39;s needs. Our vision is
+        to be recognized as a leading engineering firm driven by integrity,
+        teamwork, and innovation.
       </p>
 
       <Link
