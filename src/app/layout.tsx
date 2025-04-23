@@ -15,8 +15,8 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  title: "JAF Washing",
-  description: "JAF Washing",
+  title: "Sumon Enterprise",
+  description: "Sumon Enterprise - A Marine and Offshore Service Provider",
 };
 
 export default function RootLayout({

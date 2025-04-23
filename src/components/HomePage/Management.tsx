@@ -1,7 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 import Image from "next/image";
-import sumonChowdhury from "../../../public/assets/images/management/johirulIslam.jpg"; // Replace with the actual path to the image
+import sumonChowdhury from "../../../public/assets/images/WhatsApp Image 2025-04-23 at 13.28.00_d2e3f1de.jpg"; // Replace with the actual path to the image
 
 export default function Management() {
   const profiles = [

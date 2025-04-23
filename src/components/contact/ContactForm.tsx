@@ -69,7 +69,7 @@ export default function ContactForm() {
                   OFFICE ADDRESS
                 </h3>
                 <p className="text-gray-600">
-                  Holding No: 2/8/A, Road No: 21, Shyampur, Dhaka-1204.
+                  Panadi, Mijmiji, Shiddhirganj, Narayanganj, Dhaka
                 </p>
               </div>
             </div>
@@ -81,7 +81,7 @@ export default function ContactForm() {
               </div>
               <div>
                 <h3 className="font-semibold text-gray-700 mb-2">PHONE</h3>
-                <p className="text-gray-600">+8801718666662</p>
+                <p className="text-gray-600">+8801736299908</p>
               </div>
             </div>
 
@@ -94,7 +94,7 @@ export default function ContactForm() {
                 <h3 className="font-semibold text-gray-700 mb-2">
                   EMAIL ADDRESS
                 </h3>
-                <p className="text-gray-600">jafwashing@gmail.com</p>
+                <p className="text-gray-600">sumonc061@gmail.com</p>
               </div>
             </div>
           </div>
@@ -102,13 +102,15 @@ export default function ContactForm() {
           {/* Social Icons */}
           <div className="flex gap-4 pt-4">
             <a
-              href="#"
+              href="https://facebook.com"
+              target="_blank"
               className="bg-primary_color p-3 text-white hover:bg-violet-700 transition-colors"
             >
               <Facebook className="h-6 w-6" />
             </a>
             <a
-              href="#"
+              href="https://linkedin.com"
+              target="_blank"
               className="bg-primary_color p-3 text-white hover:bg-violet-700 transition-colors"
             >
               <Linkedin className="h-6 w-6" />
@@ -120,7 +122,7 @@ export default function ContactForm() {
         <div className="space-y-6">
           <div className="text-center space-y-2">
             <h2 className="text-2xl text-black">
-              Feel free to contact us anytime with any questions that you have.
+              Feel free to contact us anytime with any questions you have.
             </h2>
             <p className="text-xl text-black">
               We are here to help every step of the way!

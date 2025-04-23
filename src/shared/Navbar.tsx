@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
-import logo from "../../public/assets/images/logo.jpg";
+import logo from "../../public/assets/images/logo2.jpg";
 
 const navItems = [
   { name: "HOME", href: "/" },
@@ -16,12 +16,12 @@ const navItems = [
       { name: "About Us", href: "/about-us" },
       { name: "Management", href: "/about-us/management" },
       { name: "Factory Profile", href: "/about-us/factory-profile" },
-      { name: "LIST OF MACHINERIES", href: "/about-us/list-of-machineries" },
+      // { name: "LIST OF MACHINERIES", href: "/about-us/list-of-machineries" },
     ],
   },
-  { name: "FACILITIES", href: "/our-facilities" },
+  // { name: "FACILITIES", href: "/our-facilities" },
   { name: "CLIENTS", href: "/clients" },
-  { name: "SUSTAINABILITY", href: "/sustainability" },
+  // { name: "SUSTAINABILITY", href: "/sustainability" },
   { name: "COMPLIANCE", href: "/compliance" },
   {
     name: "GALLERY",

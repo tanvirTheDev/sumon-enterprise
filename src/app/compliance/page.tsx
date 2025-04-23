@@ -1,5 +1,4 @@
 "use client";
-import CertificationList from "@/components/complience/CertificationList";
 import { CertificateCarousoul } from "@/components/HomePage/CertificateCarousoul";
 import { motion } from "framer-motion";
 
@@ -34,7 +33,7 @@ const Compliance = () => {
       </div>
 
       {/* Certification List and Carousel */}
-      <CertificationList />
+      {/* <CertificationList /> */}
       <CertificateCarousoul />
     </>
   );
