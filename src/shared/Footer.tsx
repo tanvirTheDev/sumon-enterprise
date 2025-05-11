@@ -111,7 +111,7 @@ export default function Footer() {
                   <MapPin size={20} />
                 </div>
                 <p className="text-gray-200">
-                  Panadi, Mijmiji, Shiddhirganj, Narayanganj, Dhaka
+                Chowdhury Para, Mijmiji, Shiddhirganj, Narayanganj, Dhaka
                 </p>
               </div>
               <div className="flex items-center gap-2">

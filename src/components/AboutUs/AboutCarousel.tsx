@@ -14,30 +14,16 @@ import {
 
 const AboutCarousel = () => {
   const images = [
+ 
     {
-      src: "/assets/images/aboutUs/image1.jpg",
-      alt: "Higg Index",
-    },
-    {
-      src: "/assets/images/aboutUs/image2.jpg",
+      src: "/assets/images/aboutUs/image3.jpg",
       alt: "Social & Labor Convergence",
     },
     {
-      src: "/assets/images/aboutUs/image3.jpg",
+      src: "/assets/images/aboutUs/image2.jpg",
       alt: "Sedex",
     },
-    {
-      src: "/assets/images/aboutUs/image4.jpg",
-      alt: "Amfori BSCI",
-    },
-    {
-      src: "/assets/images/aboutUs/image5.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/aboutUs/image6.jpg",
-      alt: "GOTS",
-    },
+   
   ];
 
   const [carouselApi, setCarouselApi] = useState<CarouselApi | null>(null);

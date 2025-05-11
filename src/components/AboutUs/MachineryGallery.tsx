@@ -38,18 +38,6 @@ const galleryImages = [
     alt: "Industrial machinery 1",
   },
   {
-    src: "/assets/images/machineryGallery/6.jpg",
-    width: 600,
-    height: 400,
-    alt: "Industrial machinery 2",
-  },
-  {
-    src: "/assets/images/machineryGallery/7.jpg",
-    width: 600,
-    height: 400,
-    alt: "Industrial machinery 1",
-  },
-  {
     src: "/assets/images/machineryGallery/8.jpg",
     width: 600,
     height: 400,
@@ -73,6 +61,19 @@ const galleryImages = [
     height: 400,
     alt: "Industrial machinery 2",
   },
+  {
+    src: "/assets/images/machineryGallery/12.jpg",
+    width: 600,
+    height: 400,
+    alt: "Industrial machinery 2",
+  },
+  {
+    src: "/assets/images/machineryGallery/13.jpg",
+    width: 600,
+    height: 400,
+    alt: "Industrial machinery 2",
+  },
+  
   // Add more images as needed
 ];
 

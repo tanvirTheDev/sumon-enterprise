@@ -16,7 +16,7 @@ const navItems = [
       { name: "About Us", href: "/about-us" },
       { name: "Management", href: "/about-us/management" },
       { name: "Factory Profile", href: "/about-us/factory-profile" },
-      // { name: "LIST OF MACHINERIES", href: "/about-us/list-of-machineries" },
+      { name: "LIST OF MACHINERIES", href: "/about-us/list-of-machineries" },
     ],
   },
   // { name: "FACILITIES", href: "/our-facilities" },

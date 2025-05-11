@@ -6,99 +6,31 @@ import Image from "next/image";
 const ClientData = () => {
   const images = [
     {
-      src: "/assets/images/ourClients/image1.jpeg",
+      src: "/assets/images/ourClients/1.jpg",
       alt: "Higg Index",
     },
     {
-      src: "/assets/images/ourClients/image2.png",
+      src: "/assets/images/ourClients/2.jpg",
       alt: "Social & Labor Convergence",
     },
     {
-      src: "/assets/images/ourClients/image3.png",
+      src: "/assets/images/ourClients/3.jpg",
       alt: "Sedex",
     },
     {
-      src: "/assets/images/ourClients/image4.png",
+      src: "/assets/images/ourClients/4.jpg",
       alt: "Amfori BSCI",
     },
     {
-      src: "/assets/images/ourClients/image5.jpeg",
+      src: "/assets/images/ourClients/5.jpg",
       alt: "GOTS",
     },
     {
-      src: "/assets/images/ourClients/image6.jpeg",
+      src: "/assets/images/ourClients/6.jpg",
       alt: "GOTS",
     },
     {
-      src: "/assets/images/ourClients/image7.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image8.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image9.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image10.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image11.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image12.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image13.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image14.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image15.png",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image16.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image17.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image18.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image19.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image20.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image21.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image22.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image23.jpeg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image24.jpeg",
+      src: "/assets/images/ourClients/7.jpg",
       alt: "GOTS",
     },
   ];

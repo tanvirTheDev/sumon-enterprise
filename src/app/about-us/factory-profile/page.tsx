@@ -14,25 +14,14 @@ import logo2 from "../../../../public/assets/images/logo2.jpg";
 const Page = () => {
   const images = [
     {
-      src: "/assets/images/aboutUs/image1.jpg",
+      src: "/assets/images/aboutUs/image3.jpg",
       alt: "Fiber Boat",
     },
     {
       src: "/assets/images/aboutUs/image2.jpg",
       alt: "Engine Overhaul",
     },
-    {
-      src: "/assets/images/aboutUs/image3.jpg",
-      alt: "Navigation Equipment",
-    },
-    {
-      src: "/assets/images/aboutUs/image4.jpg",
-      alt: "Marine Works",
-    },
-    {
-      src: "/assets/images/aboutUs/image5.jpg",
-      alt: "Workshop View",
-    },
+
   ];
 
   const productionData = [

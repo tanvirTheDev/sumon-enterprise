@@ -16,165 +16,34 @@ export function OurClients() {
   // Array of images
   const images = [
     {
-      src: "/assets/images/ourClients/image1.jpg",
+      src: "/assets/images/ourClients/1.jpg",
       alt: "Higg Index",
     },
     {
-      src: "/assets/images/ourClients/image2.jpg",
+      src: "/assets/images/ourClients/2.jpg",
       alt: "Social & Labor Convergence",
     },
     {
-      src: "/assets/images/ourClients/image3.jpg",
+      src: "/assets/images/ourClients/3.jpg",
       alt: "Sedex",
     },
     {
-      src: "/assets/images/ourClients/image4.jpg",
+      src: "/assets/images/ourClients/4.jpg",
       alt: "Amfori BSCI",
     },
     {
-      src: "/assets/images/ourClients/image5.jpg",
+      src: "/assets/images/ourClients/5.jpg",
       alt: "GOTS",
     },
     {
-      src: "/assets/images/ourClients/image6.jpg",
+      src: "/assets/images/ourClients/6.jpg",
       alt: "GOTS",
     },
     {
-      src: "/assets/images/ourClients/image7.jpg",
+      src: "/assets/images/ourClients/7.jpg",
       alt: "GOTS",
     },
-    {
-      src: "/assets/images/ourClients/image8.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image9.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image10.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image11.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image12.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image13.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image14.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image15.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image16.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image17.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image18.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image19.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image20.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image21.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image22.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image23.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image24.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image25.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image26.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image27.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image28.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image29.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image30.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image31.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image32.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image33.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image34.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image35.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image36.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image37.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image38.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image39.jpg",
-      alt: "GOTS",
-    },
-    {
-      src: "/assets/images/ourClients/image40.jpg",
-      alt: "GOTS",
-    },
+   
   ];
 
   const [carouselApi, setCarouselApi] = React.useState<CarouselApi | null>(

@@ -69,7 +69,7 @@ export default function ContactForm() {
                   OFFICE ADDRESS
                 </h3>
                 <p className="text-gray-600">
-                  Panadi, Mijmiji, Shiddhirganj, Narayanganj, Dhaka
+                Chowdhury Para, Mijmiji, Shiddhirganj, Narayanganj, Dhaka
                 </p>
               </div>
             </div>
